@@ -20,7 +20,7 @@ This project uses an Arduino, an ultrasonic sensor, and LEDs to measure distance
 Connect the components as shown in the circuit diagram:
 
 <div align="center">
-      <img src="Tasks/Task_1/Task_1.png" alt="Task 1 Circuit Diagram" width="500">
+      <img src="/Task_1/Task_1.png" alt="Task 1 Circuit Diagram" width="500">
     </div>
 
 ## Code
