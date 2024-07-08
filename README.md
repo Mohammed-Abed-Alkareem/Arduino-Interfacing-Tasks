@@ -72,7 +72,7 @@ Connect the components as shown in the circuit diagram:
 
 
 <div align="center">
-      <img src="/Task_2/Task_2.png" alt="Task 1 Circuit Diagram" width="600">
+      <img src="/Task_2/Task_2.png" alt="Task 2 Circuit Diagram" width="600">
     </div>
 
 ## Code
@@ -118,7 +118,7 @@ This project demonstrates using an encoder with a DC motor controlled by an Ardu
 Connect the components as shown in the circuit diagram:
 
 <div align="center">
-      <img src="/Task_3/Task%203_use_I2C.png" alt="Task 1 Circuit Diagram" width="600">
+      <img src="/Task_3/Task_3_use_I2C.png" alt="Task 3 Circuit Diagram" width="600">
     </div>
 
 ## Code
