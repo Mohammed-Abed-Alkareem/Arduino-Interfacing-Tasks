@@ -1,4 +1,4 @@
-# Arduino-Interfacing-Tasks
+# Arduino-Interfacing-
 
 # Task 1: Distance Measurement System with Arduino and Ultrasonic Sensors
 
@@ -28,7 +28,7 @@ Connect the components as shown in the circuit diagram:
 Upload the code to your Arduino:
 
 
-You can find the full code [here](./Tasks/Task_1/sketch_apr29a/sketch_apr29a.ino).
+You can find the full code [here](./Task_1/sketch_apr29a/sketch_apr29a.ino).
 
 
 
@@ -46,7 +46,7 @@ You can find the full code [here](./Tasks/Task_1/sketch_apr29a/sketch_apr29a.ino
    - If the distance is 30 cm or more, the LEDs blink.
 
 <div align="center">
-      <img src="Tasks/Task_1/Task_1.gif" alt="Task 1 Circuit Diagram" width="300">
+      <img src="/Task_1/Task_1.gif" alt="Task 1 Circuit Diagram" width="300">
     </div>
     
 # Task 2: Distance Measurement and Motion Detection System with Arduino
@@ -72,14 +72,14 @@ Connect the components as shown in the circuit diagram:
 
 
 <div align="center">
-      <img src="Tasks/Task_2/Task_2.png" alt="Task 1 Circuit Diagram" width="600">
+      <img src="/Task_2/Task_2.png" alt="Task 1 Circuit Diagram" width="600">
     </div>
 
 ## Code
 
 Upload the code to your Arduino:
 
-You can find the full code [here](./Tasks/Task_2/sketch_jun13a/sketch_jun13a.ino).
+You can find the full code [here](./Task_2/sketch_jun13a/sketch_jun13a.ino).
 
 ## Functionality
 
@@ -118,14 +118,14 @@ This project demonstrates using an encoder with a DC motor controlled by an Ardu
 Connect the components as shown in the circuit diagram:
 
 <div align="center">
-      <img src="Tasks/Task_3/Task%203_use_I2C.png" alt="Task 1 Circuit Diagram" width="600">
+      <img src="/Task_3/Task%203_use_I2C.png" alt="Task 1 Circuit Diagram" width="600">
     </div>
 
 ## Code
 
 Upload the code to your Arduino:
 
-You can find the full code [here](./Tasks/Task_3/sketch_jun13a/sketch_jun13a.ino).
+You can find the full code [here](./Task_3/sketch_jun13a/sketch_jun13a.ino).
 
 ## Functionality
 
