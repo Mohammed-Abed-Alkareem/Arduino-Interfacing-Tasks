@@ -5,25 +5,25 @@ This repo contains various Arduino tasks demonstrating interfacing techniques wi
 # Table of Contents
 
 1. [Task 1: Distance Measurement System with Arduino and Ultrasonic Sensors](#task-1-distance-measurement-system-with-arduino-and-ultrasonic-sensors)
+   1. [Overview](#overview)
+   2. [Components](#components)
+   3. [Circuit Diagram](#circuit-diagram)
+   4. [Code](#code)
+   5. [Functionality](#functionality)
+
+2. [Task 2: Distance Measurement and Motion Detection System with Arduino](#task-2-distance-measurement-and-motion-detection-system-with-arduino)
    1. [Overview](#overview-1)
    2. [Components](#components-1)
    3. [Circuit Diagram](#circuit-diagram-1)
    4. [Code](#code-1)
    5. [Functionality](#functionality-1)
 
-2. [Task 2: Distance Measurement and Motion Detection System with Arduino](#task-2-distance-measurement-and-motion-detection-system-with-arduino)
+3. [Task 3: DC Motors with Encoders & Serial Communication](#task-3-dc-motors-with-encoders--serial-communication)
    1. [Overview](#overview-2)
    2. [Components](#components-2)
    3. [Circuit Diagram](#circuit-diagram-2)
    4. [Code](#code-2)
    5. [Functionality](#functionality-2)
-
-3. [Task 3: DC Motors with Encoders & Serial Communication](#task-3-dc-motors-with-encoders--serial-communication)
-   1. [Overview](#overview-3)
-   2. [Components](#components-3)
-   3. [Circuit Diagram](#circuit-diagram-3)
-   4. [Code](#code-3)
-   5. [Functionality](#functionality-3)
    6. [Commands](#commands)
 
 ## Task 1: Distance Measurement System with Arduino and Ultrasonic Sensors
