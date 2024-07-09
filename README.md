@@ -127,7 +127,7 @@ You can find the full code [here](./Task_2/sketch_jun13a/sketch_jun13a.ino).
 
 
 
-## Task: DC Motors with Encoders & Serial Communication
+## Task 3: DC Motors with Encoders & Serial Communication
 
 ### Overview
 
