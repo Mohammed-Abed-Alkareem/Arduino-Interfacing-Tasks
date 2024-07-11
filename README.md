@@ -58,8 +58,6 @@ Upload the code to your Arduino:
 You can find the full code [here](./Task_1/sketch_apr29a/sketch_apr29a.ino).
 
 
-
-
 ### Functionality
 
 1. **Measure Distance:**
@@ -173,5 +171,3 @@ You can find the full code [here](./Task_3/sketch_jun13a/sketch_jun13a.ino).
 - **SET_MODE 2:** Switch to mode 2 (control via serial commands).
 - **SET_SPEED [value]:** Set the motor speed (0-255).
 - **SET_DIR [CW/CCW]:** Set the motor direction (Clockwise/Counter-Clockwise).
-
-
