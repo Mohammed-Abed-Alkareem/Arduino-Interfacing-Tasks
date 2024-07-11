@@ -1,4 +1,4 @@
-# Arduino-Interfacing-Tasks
+# Arduino-Interfacing-Tasks 
 
 This repo contains various Arduino tasks demonstrating interfacing techniques with different components. Each task includes detailed instructions, circuit diagrams, and source code.
 
