@@ -152,6 +152,7 @@ Connect the components as shown in the circuit diagram:
 
 Upload the code to your Arduino:
 
+
 You can find the full code [here](./Task_3/sketch_jun13a/sketch_jun13a.ino).
 
 ### Functionality
@@ -175,3 +176,4 @@ You can find the full code [here](./Task_3/sketch_jun13a/sketch_jun13a.ino).
   <div align="center">
       <img src="/Task_3/task_3.gif" alt="Task 3" width="300">
     </div>
+
