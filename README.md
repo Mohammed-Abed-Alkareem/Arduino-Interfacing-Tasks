@@ -164,10 +164,14 @@ You can find the full code [here](./Task_3/sketch_jun13a/sketch_jun13a.ino).
    - The motor can be controlled using serial commands.
    - Commands include starting/stopping the motor, setting speed, and setting direction.
 
-### Commands
+#### Commands
 
 - **START:** Start the motor.
 - **STOP:** Stop the motor.
 - **SET_MODE 2:** Switch to mode 2 (control via serial commands).
 - **SET_SPEED [value]:** Set the motor speed (0-255).
 - **SET_DIR [CW/CCW]:** Set the motor direction (Clockwise/Counter-Clockwise).
+
+  <div align="center">
+      <img src="/Task_3/task_3.gif" alt="Task 3" width="300">
+    </div>
