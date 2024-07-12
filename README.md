@@ -165,7 +165,7 @@ You can find the full code [here](./Task_3/sketch_jun13a/sketch_jun13a.ino).
    - The motor can be controlled using serial commands.
    - Commands include starting/stopping the motor, setting speed, and setting direction.
 
-#### Commands
+### Commands
 
 - **START:** Start the motor.
 - **STOP:** Stop the motor.
